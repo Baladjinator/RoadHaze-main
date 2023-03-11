@@ -7,3 +7,6 @@
 [submodule "ml"]
 	path = ml
 	url = https://github.com/Baladjinator/RoadHaze-Cpu-model-and-data-fit-prototype
+[submodule "cam"]
+	path = cam
+	url = https://github.com/Baladjinator/RoadHaze-Cam
